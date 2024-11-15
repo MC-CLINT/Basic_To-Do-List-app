@@ -1,0 +1,65 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins';
+    box-sizing: border-box;
+    
+}
+
+.container {
+    width: 100%;
+    min-height: 100vh;
+    background:linear-gradient(120deg, rgb(43, 0, 143), rgb(140, 8, 192));
+    padding: 10px;
+}
+
+.todo-app{
+    width: 100%;
+    max-width: 500px;
+    background: white;
+    margin: 100px auto 0px;
+    padding: 40px 35px 70px;
+    border-radius: 10px;
+
+}
+
+.todo-app h2{
+    color:rgb(43, 0, 143) ;
+    display:flex;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.todo-app h2 img{
+    width: 30px;
+    margin-left: 10px;
+}
+
+.add-area {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(216, 216, 216);
+    border-radius: 40px;
+}
+
+.add-area input{
+    flex: 1;
+    background: transparent;
+    border: none;
+    outline: none;
+    border-radius: 40px;
+    padding-left: 15px;
+}
+
+.add-area button {
+    border: none;
+    outline: none;
+    padding: 20px 30px;
+    background: rgb(255, 81, 0);
+    color:white;
+    border-radius: 40px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
