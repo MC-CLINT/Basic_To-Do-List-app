@@ -1,7 +1,7 @@
 
 # Basic To-Do List App
 
-This is a simple and interactive To-Do List application that allows users to add, check off, and delete tasks. The app is built using HTML, CSS, and JavaScript, and it stores tasks in the browser's local storage, allowing users to retain their tasks even after refreshing the page.
+This is a simple and interactive To-Do List application that allows users to add, check off, and delete tasks. The app is built using HTML, CSS, and JavaScript, and it stores tasks in the browser's local storage, allowing users to retain their tasks even after refreshing the page. Visit the task progress screenshots folder for timeline images.
 
 ## Features
 
